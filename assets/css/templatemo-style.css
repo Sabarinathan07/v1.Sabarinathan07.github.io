@@ -354,6 +354,15 @@ button:hover {
     color: #fff;
 }
 
+.code-button {
+    outline: none;
+    background-color: #a43f49;
+    color: #fff;
+    margin-top:10px;
+    
+
+}
+
 
 /* Left & Right Post */
 
@@ -469,7 +478,7 @@ section.my-work .section-heading {
 }
 
 .isotope-wrapper {
-    position: relative;
+    position:relative;
     width: 100%;
     margin: auto;
 }
