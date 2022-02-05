@@ -75,6 +75,13 @@ html {
     box-sizing: inherit;
 }
 
+.fa-file {
+    color: #fff;
+}
+.fa-file :hover{
+    text-decoration: underline;
+}
+
 .clearfix {
     zoom: 1;
 }
