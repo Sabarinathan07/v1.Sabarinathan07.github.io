@@ -156,6 +156,12 @@ html {
     font-style: italic;
     color: #fff;
 }
+.menu .author-content span:hover {
+    font-size: 13px;
+    font-style: italic;
+    color: rgb(211, 140, 140) !important;
+
+}
 
 .menu .social-network {
     margin-top: 60px;
